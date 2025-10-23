@@ -1,7 +1,7 @@
 # Company Sales Insights 
 Sales Insights from sales dataset. Conducted analysis using MySQL to query and clean data. Then used PowerBI to transform and create a dashboard of the data.
 
-##1. Description/purpose of project
+**1. Description/purpose of project**
    - Practice data modeling and visualization in Power BI.
    - Showcase the ability to connect multiple data sources and create a cohesive analytical report.
    - Provide decision-makers with actionable insights through intuitive dashboards.
